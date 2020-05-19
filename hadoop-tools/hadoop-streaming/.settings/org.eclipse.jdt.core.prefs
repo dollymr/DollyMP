@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//Users/huanlexu/Desktop/hadoop-2-6-4-source/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/conf=UTF-8
+encoding//usr/local/hadoop-2.6.4-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/conf=UTF-8
+encoding/src/main/java=UTF-8
+encoding/src/main/resources=UTF-8
+encoding/src/test/java=UTF-8
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
+org.eclipse.jdt.core.compiler.compliance=1.6
+org.eclipse.jdt.core.compiler.problem.forbiddenReference=warning
+org.eclipse.jdt.core.compiler.release=disabled
+org.eclipse.jdt.core.compiler.source=1.6

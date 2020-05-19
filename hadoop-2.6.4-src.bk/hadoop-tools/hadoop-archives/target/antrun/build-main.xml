@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <delete dir="/usr/local/hadoop-2.6.4-src/hadoop-tools/hadoop-archives/target/test-dir"/>
+  <mkdir dir="/usr/local/hadoop-2.6.4-src/hadoop-tools/hadoop-archives/target/test-dir"/>
+  <mkdir dir="/usr/local/hadoop-2.6.4-src/hadoop-tools/hadoop-archives/target/log"/>
+</target>
+</project>
