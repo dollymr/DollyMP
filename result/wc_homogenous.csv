@@ -1,0 +1,4 @@
+Job Type,Cycle #0,Cycle #1,Cycle #2,Cycle #3,Cycle #4,Cycle #5,Cycle #6,Cycle #7,Avg. Elapsed Time,Elapsed Time Variance,Elapsed Time Range
+wc_0copy,293,348,275,279,255,298,288,299,291.88,25.16,93
+wc_1copy,265,353,269,222,231,230,230,225,253.12,41.36,131
+wc_2copy,299,348,269,228,228,236,229,231,258.50,41.46,120
